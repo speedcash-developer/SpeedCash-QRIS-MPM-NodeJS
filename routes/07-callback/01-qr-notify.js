@@ -65,7 +65,7 @@ const send = async () => {
             "feeAdmin": "0",
             "typeQr": "dynamic",
             "description": "Pembayaran makan siang",
-            "merchantId": "1241231232",
+            "merchantId": "xxxxx",
             "issuerId": "93600815",
             "acquirerId": "93600815"
         }
