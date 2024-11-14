@@ -18,7 +18,7 @@ const httpMethod = 'POST'
 const body = {
     idQr: "10099419",
     additionalInfo: {
-        merchantId: "1212667"
+        merchantId: "xxxx"
     }
 };
 

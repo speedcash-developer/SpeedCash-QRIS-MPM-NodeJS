@@ -20,7 +20,7 @@ const imagePath = path.join(__dirname, '../../assets/verifikasi.png');
 const bodyForSignature = {
     merchantId: "xxxx",
     type: "ktp",
-    no_ktp: "1234567890323436"
+    no_ktp: "123456789032xxxx"
 };
 
 // Generate headers

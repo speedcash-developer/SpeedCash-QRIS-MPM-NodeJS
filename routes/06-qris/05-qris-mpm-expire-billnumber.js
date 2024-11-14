@@ -18,7 +18,7 @@ const httpMethod = 'POST'
 const body = {
     billNumber: "20241018083212584",
     additionalInfo: {
-        merchantId: "1212667"
+        merchantId: "xxxx"
     }
 };
 

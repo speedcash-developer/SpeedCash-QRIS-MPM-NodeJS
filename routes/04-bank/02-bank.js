@@ -16,7 +16,7 @@ const httpMethod = 'POST'
 
 // body
 const body = {
-    merchantId: "1212667",
+    merchantId: "xxxx",
     kode_bank: "008",
     nama_bank: "MANDIRI",
     cabang_bank: "rungkut",

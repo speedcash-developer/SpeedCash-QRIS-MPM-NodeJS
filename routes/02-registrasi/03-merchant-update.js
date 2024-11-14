@@ -18,8 +18,8 @@ const httpMethod = 'POST'
 const body = {
     nama_outlet: "freya store",
     notelp_outlet: "62812002xxxx",
-    email_outlet: "freya@gmail.com",
-    nik: "1254291911652221",
+    email_outlet: "rosididragon@gmail.com",
+    nik: "125429191165xxxx",
     kewarganegaraan: "ID",
     id_provinsi_pemilik: "28",
     id_kota_pemilik: "253",

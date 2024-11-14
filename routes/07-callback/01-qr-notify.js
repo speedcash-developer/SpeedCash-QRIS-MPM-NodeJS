@@ -56,18 +56,18 @@ const send = async () => {
             "terminalId": "A01",
             "qrisId": "10099768",
             "issuerReff": "214123123",
-            "buyyerReff": "Ainul nosidi",
+            "buyyerReff": "Rosidi Dragon",
             "brandName": "GOPAY",
             "transactionDate": "2024-10-31T11:00:32+07:00",
-            "rrn": "000005301527",
+            "rrn": "00000530xxxx",
             "feeAmount": "2000.00",
             "mdr": "107.8000000000",
             "feeAdmin": "0",
             "typeQr": "dynamic",
             "description": "Pembayaran makan siang",
             "merchantId": "xxxxx",
-            "issuerId": "93600815",
-            "acquirerId": "93600815"
+            "issuerId": "xxxx",
+            "acquirerId": "xxxx"
         }
     };
 

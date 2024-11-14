@@ -16,12 +16,8 @@ Get started now and make cashless payments smoother and faster with SpeedCash!
 - [Installation](#installation)
 - [Configuration](#configuration)
 - [Usage](#usage)
-- [Project Structure](#project-structure)
-- [Example Requests](#example-requests)
 - [Dependencies](#dependencies)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ---
 
@@ -35,8 +31,8 @@ To run this project, ensure that your environment meets the following requiremen
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/project-name.git
-   cd project-name
+   git clone https://github.com/speedcash-developer/SpeedCash-QRIS-MPM-NodeJS
+   cd SpeedCash-QRIS-MPM-NodeJS
    ```
 2. **Install dependecies**:
    ```bash

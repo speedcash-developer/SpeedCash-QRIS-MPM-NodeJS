@@ -25,7 +25,7 @@ const body = {
         value: "1000.00",
         currency: "IDR"
     },
-    merchantId: "1212667",
+    merchantId: "xxxx",
     validityPeriod: "2024-10-21T09:49:25+07:00",
     additionalInfo: {
         feeType: "1",

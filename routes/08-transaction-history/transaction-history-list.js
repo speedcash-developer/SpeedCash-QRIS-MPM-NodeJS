@@ -21,7 +21,7 @@ const body = {
     pageSize: "10",
     pageNumber: "0",
     additionalInfo: {
-        merchantId: "1212667"
+        merchantId: "xxxx"
     }
 };
 

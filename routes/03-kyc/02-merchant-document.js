@@ -16,7 +16,7 @@ const httpMethod = 'POST'
 
 // body
 const body = {
-    merchantId: "1212667"
+    merchantId: "xxxx"
 };
 
 // headers
