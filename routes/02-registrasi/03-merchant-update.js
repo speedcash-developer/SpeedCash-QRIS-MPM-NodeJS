@@ -17,7 +17,7 @@ const httpMethod = 'POST'
 // body
 const body = {
     nama_outlet: "freya store",
-    notelp_outlet: "628120022512",
+    notelp_outlet: "62812002xxxx",
     email_outlet: "freya@gmail.com",
     nik: "1254291911652221",
     kewarganegaraan: "ID",
@@ -38,7 +38,7 @@ const body = {
     mcc: "5812",
     npwp: "0",
     is_onlineshop: 0,
-    merchantId: "1213684"
+    merchantId: "xxxxxx"
 };
 
 // headers
