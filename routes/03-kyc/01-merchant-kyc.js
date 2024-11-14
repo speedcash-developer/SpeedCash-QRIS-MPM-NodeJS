@@ -18,7 +18,7 @@ const imagePath = path.join(__dirname, '../../assets/verifikasi.png');
 
 // Body yang akan digunakan untuk signature
 const bodyForSignature = {
-    merchantId: "1212667",
+    merchantId: "xxxx",
     type: "ktp",
     no_ktp: "1234567890323436"
 };
