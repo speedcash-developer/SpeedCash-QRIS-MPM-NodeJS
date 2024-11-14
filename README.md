@@ -1,2 +1,9 @@
-# SpeedCash-QRIS-MPM-NodeJS
-SpeedCash ❤️ Node.js
+# SpeedCash ❤️ Node.js
+
+Welcome to the Official Node.js API Client for the SpeedCash QRIS MPM API! 🚀
+
+Effortlessly integrate SpeedCash’s QRIS capabilities into your Node.js projects with this library. Designed to be efficient and easy-to-use, our client library allows you to quickly set up payments and access SpeedCash's powerful features.
+
+💡 Explore the Docs: Find detailed documentation and examples in our API Docs for a seamless setup and to make the most of SpeedCash in your application.
+
+Get started now and make cashless payments smoother and faster with SpeedCash!
