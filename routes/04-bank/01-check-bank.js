@@ -16,7 +16,7 @@ const httpMethod = 'POST'
 
 // body
 const body = {
-    merchantId: "xxxx",
+    merchantId: "121xxxx",
     kode_bank: "008",
     no_rekening: "4321123454321"
 };

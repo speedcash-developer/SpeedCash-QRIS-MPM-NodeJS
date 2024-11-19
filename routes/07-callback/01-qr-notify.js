@@ -52,10 +52,10 @@ const send = async () => {
             "currency": "IDR"
         },
         "additionalInfo": {
-            "nmid": "3214123213",
+            "nmid": "ID321412xxxx",
             "terminalId": "A01",
             "qrisId": "10099768",
-            "issuerReff": "214123123",
+            "issuerReff": "21412xxxx",
             "buyyerReff": "Rosidi Dragon",
             "brandName": "GOPAY",
             "transactionDate": "2024-10-31T11:00:32+07:00",
@@ -65,9 +65,9 @@ const send = async () => {
             "feeAdmin": "0",
             "typeQr": "dynamic",
             "description": "Pembayaran makan siang",
-            "merchantId": "xxxxx",
-            "issuerId": "xxxx",
-            "acquirerId": "xxxx"
+            "merchantId": "121xxxx",
+            "issuerId": "9360xxxx",
+            "acquirerId": "9360xxxx"
         }
     };
 

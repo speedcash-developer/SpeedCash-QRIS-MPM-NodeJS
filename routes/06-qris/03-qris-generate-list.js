@@ -18,7 +18,7 @@ const httpMethod = 'POST'
 const body = {
     dateGenerate: "2024-10-18T14:49:25+07:00",
     additionalInfo: {
-        merchantId: "xxxx"
+        merchantId: "121xxxx"
     }
 }
 

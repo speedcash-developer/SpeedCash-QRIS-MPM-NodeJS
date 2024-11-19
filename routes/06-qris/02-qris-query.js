@@ -17,7 +17,7 @@ const httpMethod = 'POST'
 // body
 const body = {
     originalReferencenNo: "41237219",
-    merchantId: "xxxx",
+    merchantId: "121xxxx",
     serviceCode: "47",
     additionalInfo: {
         qrId: "19783090"

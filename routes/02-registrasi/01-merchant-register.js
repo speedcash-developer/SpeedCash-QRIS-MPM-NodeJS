@@ -16,12 +16,12 @@ const httpMethod = 'POST'
 
 // body
 const body = {
-    nama_pemilik: "ada freya",
-    nama_outlet: "freya store",
+    nama_pemilik: "rosidi dragon",
+    nama_outlet: "rosididragon store",
     notelp_pemilik: "62812002xxxx",
     notelp_outlet: "62812002xxxx",
-    email_pemilik: "freya@gmail.com",
-    email_outlet: "freya@gmail.com",
+    email_pemilik: "rosididragon@gmail.com",
+    email_outlet: "rosididragon@gmail.com",
     nik: "125429191165xxxx",
     kewarganegaraan: "ID",
     id_provinsi_pemilik: "28",

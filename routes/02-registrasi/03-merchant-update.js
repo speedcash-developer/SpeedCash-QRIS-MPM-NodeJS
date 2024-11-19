@@ -38,7 +38,7 @@ const body = {
     mcc: "5812",
     npwp: "0",
     is_onlineshop: 0,
-    merchantId: "xxxxxx"
+    merchantId: "121xxxx"
 };
 
 // headers
